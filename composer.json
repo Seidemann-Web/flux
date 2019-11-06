@@ -30,8 +30,8 @@
         "typo3/cms": ">=7.6.13, <7.6.99|^8.4.1"
     },
     "replace": {
-        "flux": "self.version",
-        "typo3-ter/flux": "self.version"
+        "flux": "8.2.1",
+        "typo3-ter/flux": "8.2.1"
     },
     "require-dev": {
         "fluidtypo3/development": "^3.0"
