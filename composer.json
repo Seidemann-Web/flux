@@ -1,5 +1,5 @@
 {
-    "name": "fluidtypo3/flux",
+    "name": "seidemann-web/flux",
     "description": "The flux package from FluidTYPO3",
     "type": "typo3-cms-extension",
     "homepage": "http://fluidtypo3.org",
@@ -31,6 +31,7 @@
     },
     "replace": {
         "flux": "8.2.1",
+        "fluidtypo3/flux": "8.2.1",
         "typo3-ter/flux": "8.2.1"
     },
     "require-dev": {
